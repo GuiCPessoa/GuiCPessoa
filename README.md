@@ -39,10 +39,10 @@ I'm a student at CIn-UFPE in the Information Systems course, I'm a Front-End dev
 
 ## ⚡ Github Stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=140  src="https://github-readme-stats.vercel.app/api?username=GuiCPessoa&show_icons=true&theme=radical&repo=convoychat" />
+  <img align="center" height=150  src="https://github-readme-stats.vercel.app/api?username=GuiCPessoa&show_icons=true&theme=radical&repo=convoychat" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height=140  src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCPessoa&layout=compact&langs_count=8&card_width=320&theme=radical&repo=convoychat" />
+  <img align="center" height=150  src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCPessoa&layout=compact&langs_count=8&card_width=320&theme=radical&repo=convoychat" />
 </a>
 
 
