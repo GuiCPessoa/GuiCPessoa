@@ -25,7 +25,7 @@ I'm a student at CIn-UFPE in the Information Systems course, I'm a Front-End dev
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,figma,express,nextjs,mysql,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,java,react,typescript,nodejs,figma,express,nextjs,mysql,js,html,css" />
   </a>
 </div>
 
