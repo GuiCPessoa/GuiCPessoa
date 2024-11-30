@@ -2,7 +2,7 @@
   Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm Gui 👨‍💻 
 </h1>
 <p align='center'>
-I'm a student at CIn-UFPE in the Information Systems course, I'm a Front-End developer and an artist in my spare time!
+I'm a student at CIn-UFPE in the Information Systems course, I'm a Front-End developer and UI/UX Designer!
 </p>
 
 <br />
