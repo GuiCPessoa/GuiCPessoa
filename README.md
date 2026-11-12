@@ -18,18 +18,3 @@ I'm a student at CIn-UFPE in the Information Systems course
 
 
 
- 
-## :rocket: Languages:
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,react,typescript,nodejs,figma,express,nextjs,mysql,js,html,css,supabase" />
-  </a>
-</div>
-
-  
-##
-
-
-
-
