@@ -10,9 +10,7 @@ I'm a student at CIn-UFPE in the Information Systems course, I'm a Front-End dev
 
 
 <div align="center"> 
-  <a align="center" href="https://www.behance.net/guipessoa" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a align="center" href="https://www.instagram.com/gui.cpessoa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a align="center" href="https://www.artstation.com/guipessoa" target="_blank"><img src="https://img.shields.io/badge/-Artstation-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" target="_blank"></a>
   <a align="center" href = "mailto:guilhermecaioramos50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
